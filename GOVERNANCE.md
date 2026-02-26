@@ -1,5 +1,5 @@
 # STRUDEL Ecosystem Governance
-# [STRUDEL Product Working Groups Governance](#strudel-product-working-groups-governance)
+## [Product Working Groups Governance](#strudel-product-working-groups-governance)
 
 Below is information on STRUDEL governance and how you can get involved as a working group member (i.e., maintainer). If you are interested in contributing on a short term basis, you do not need to join a working group; find more information on [contributing as an individual below](#contributing-as-an-individual). 
 
@@ -48,7 +48,7 @@ Working group members are expected to seek guidance from the Steering Committee 
 * Stewardship   
 * Governance 
 
-# STRUDEL Steering Committee {#strudel-steering-committee}
+## STRUDEL Steering Committee {#strudel-steering-committee}
 
 **Responsibilities.** The STRUDEL Steering Committee is primarily responsible for strategy, advocacy, and supporting product working groups. 
 
