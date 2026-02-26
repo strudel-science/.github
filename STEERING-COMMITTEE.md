@@ -22,5 +22,7 @@ Drew Paine, Lawrence Berkeley National Lab, UC Berkeley
 \
 \
 Note that STRUDEL has product-focused working groups as well. The members, responsibilities, and roadmaps for these working groups can be found in their respective repositories:
+
 [Design System Working Group](https://github.com/strudel-science/strudel-kit)
+
 [Curriculum Working Group](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md)
