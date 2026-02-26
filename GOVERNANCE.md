@@ -3,7 +3,7 @@
 
 Below is information on STRUDEL governance and how you can get involved as a working group member (i.e., maintainer). If you are interested in contributing on a short term basis, you do not need to join a working group; find more information on [contributing as an individual below](#contributing-as-an-individual). 
 
-Product working groups may form or dissolve as the direction of STRUDEL evolves. All working group members must follow our [code of conduct](https://docs.google.com/document/d/12hvQMM9EV-rr6j-yRmx2SOd615laKXQlCVhI_o5o304/edit?tab=t.g3e4lcd899sk#heading=h.tlejhb80vbhv).
+[Product working](README.md#heading=working-groups) groups may form or dissolve as the direction of STRUDEL evolves. All working group members must follow our [code of conduct](https://docs.google.com/document/d/12hvQMM9EV-rr6j-yRmx2SOd615laKXQlCVhI_o5o304/edit?tab=t.g3e4lcd899sk#heading=h.tlejhb80vbhv).
 
 **Responsibilities:** Working groups have the responsibility of maintaining STRUDEL products. Working groups need to have a clear set of goals and objectives. Any community member might propose a working group by emailing the Steering Committee (strudel-sc at lbl dot gov); this signals that the member will take ownership of their proposed work and will serve as a maintainer for the product/project. Working groups that are not active for over six months will be deactivated. The working group leads should communicate any changes in membership or scope to the steering committee. 
 
