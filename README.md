@@ -15,5 +15,5 @@ The STRUDEL ecosystem and community are developing and we therefore use a light-
 
 STRUDEL has two product-focused working groups, composed of maintainers, to steward the overall initiative and its products: 
 
-1. [Design System Working Group](https://github.com/strudel-science/strudel-kit)  
+1. [Design System Working Group](https://github.com/strudel-science/strudel-kit/blob/main/CONTRIBUTING.md#maintainers)  
 2. [Curriculum Working Group](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md)
