@@ -103,7 +103,7 @@ If a Steering Committee member does not respond within two weeks to an invitatio
 
 STRUDEL sustains its work through multiple product-focused [working groups](#strudel-product-working-groups-governance), a [steering committee](#strudel-steering-committee) to guide them, and individual contributions. We encourage you to share your perspective and expertise through contributions to any of the STRUDEL products; you do not need to join a working group to do so. Your contributions, given at your convenience, will ensure we deliver high quality, usable resources designed for the scientific community.
 
-If you would like **to** **make a contribution without committing to long-term involvement as a maintainer,** we encourage you to follow the contribution guidelines on the relevant product pages. 
+If you would like **to** **make a contribution without committing to long-term involvement as a maintainer,** we encourage you to follow the contribution guidelines on the relevant [product pages](README.md). 
 
 If you would like **to become a maintainer and** **influence a product roadmap** and you are able to commit to at least a six month term, we encourage you to consider joining the relevant [working group](#strudel-product-working-groups-governance). 
 
