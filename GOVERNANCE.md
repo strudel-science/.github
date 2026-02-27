@@ -48,7 +48,7 @@ Working group members are expected to seek guidance from the Steering Committee 
 * Stewardship   
 * Governance 
 
-## STRUDEL Steering Committee {#strudel-steering-committee}
+## STRUDEL Steering Committee
 
 **Responsibilities.** The STRUDEL Steering Committee is primarily responsible for strategy, advocacy, and supporting product working groups. 
 
@@ -93,7 +93,7 @@ If a Steering Committee member does not respond within two weeks to an invitatio
 
 # Participating in STRUDEL 
 
-## Contributing as an Individual {#contributing-as-an-individual}
+## Contributing as an Individual
 
 STRUDEL sustains its work through multiple product-focused [working groups](#strudel-product-working-groups-governance), a [steering committee](#strudel-steering-committee) to guide them, and individual contributions. We encourage you to share your perspective and expertise through contributions to any of the STRUDEL products; you do not need to join a working group to do so. Your contributions, given at your convenience, will ensure we deliver high quality, usable resources designed for the scientific community.
 
