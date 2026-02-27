@@ -3,14 +3,14 @@
 
 Below is information on STRUDEL governance and how you can get involved as a working group member (i.e., maintainer). If you are interested in contributing on a short term basis, you do not need to join a working group; find more information on [contributing as an individual below](#contributing-as-an-individual). 
 
-[Product working](README.md#heading=working-groups) groups may form or dissolve as the direction of STRUDEL evolves. All working group members must follow our [code of conduct](https://docs.google.com/document/d/12hvQMM9EV-rr6j-yRmx2SOd615laKXQlCVhI_o5o304/edit?tab=t.g3e4lcd899sk#heading=h.tlejhb80vbhv).
+[Product working](README.md#heading=working-groups) groups may form or dissolve as the direction of STRUDEL evolves. All working group members must follow our [code of conduct](CODE-OF-CONDUCT.md).
 
 **Responsibilities:** Working groups have the responsibility of maintaining STRUDEL products. Working groups need to have a clear set of goals and objectives. Any community member might propose a working group by emailing the Steering Committee (strudel-sc at lbl dot gov); this signals that the member will take ownership of their proposed work and will serve as a maintainer for the product/project. Working groups that are not active for over six months will be deactivated. The working group leads should communicate any changes in membership or scope to the steering committee. 
 
 **Membership.**   
 Working groups are composed of product maintainers—people with a long term responsibility for stewardship. (Some working group meetings might be open to the community). There must be at least one member (i.e., maintainer) identified at all times; at least three members are preferred. Members may be invited or can be nominated by themselves or another community member at any time. Members are expected to serve at least a six month term.
 
-To become a formally recognized working group member, candidates should demonstrate long-term commitment to the project (e.g., through past contributions, hiring, funded proposals). All working group members should have a chance to discuss and vote on the induction of new members, whether they are self-nominated or invited. A majority of working group members’ votes are needed to induct a new member. Changes to the working group members should be communicated to the Steering Committee.
+To become a formally recognized working group member, candidates should demonstrate long-term commitment to the project (e.g., through past contributions, hiring, funded proposals). All working group members should have a chance to discuss and vote on the induction of new members, whether they are self-nominated or invited. A majority of working group members’ votes are needed to induct a new member. Changes to the working group members should be communicated to the [Steering Committee](STEERING-COMMITTEE.md).
 
 To step down as a working group member, send notice to all other members, ideally two weeks in advance. After your notice has been accepted, remove your name and contact information from any locations identifying you as an active maintainer and working group member. Be sure you have been credited for your work as well. The remaining working group members should pursue a replacement as needed.
 
@@ -59,8 +59,8 @@ The Steering Committee must:
 * Promote the project in relevant venues  
 * Manage collaborations with other organizations  
 * Ensure all working groups’ roadmaps and governance procedures are up-to-date in this document  
-* Ensure all working groups’ roadmaps are in alignment with the STRUDEL vision  
-* Enforce the STRUDEL code of conduct
+* Ensure all working groups’ roadmaps are in alignment with the [STRUDEL vision](README.md)  
+* Enforce the STRUDEL [code of conduct](CODE-OF-CONDUCT.md)
 
 This committee is expected to weigh in on decisions about:
 
@@ -101,7 +101,7 @@ If you would like **to** **make a contribution without committing to long-term i
 
 If you would like **to become a maintainer and** **influence a product roadmap** and you are able to commit to at least a six month term, we encourage you to consider joining the relevant [working group](#strudel-product-working-groups-governance). 
 
-All contributors are expected to follow the code of conduct.
+All contributors are expected to follow the [code of conduct](CODE-OF-CONDUCT.md).
 
 ## Organizational Collaborations
 
