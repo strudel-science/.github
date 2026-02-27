@@ -4,6 +4,10 @@ STRUDEL has a steering committee that is organized according to [GOVERNANCE.md](
 **Steering Committee members**  
 Lavanya Ramakrishnan, Lawrence Berkeley National Lab, UC Berkeley  
 Drew Paine, Lawrence Berkeley National Lab, UC Berkeley  
+Georgia Bullen, Superbloom Design
+James Colliander, 2i2c 
+Erin Becker, The Carpentries
+
 
 **Steering Committee Roadmap:**   
 *Current priorities:*  
