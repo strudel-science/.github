@@ -1,7 +1,5 @@
 # The STRUDEL Ecosystem  
 
-Last Updated: Feb 26, 2026
-
 STRUDEL is an open source ecosystem that fosters community and enables teams to create user-centered software for scientific communities. It was founded by members of the Lawrence Berkeley National Laboratory's Scientific Data (SciData) Division's UX team. Original founding stakeholders are from the SciData UX team along with the Berkeley Institute for Data Science (BIDS), UC Berkeley Open Source Program Office (OSPO), Superbloom Design, The Carpentries, and 2i2c.
 
 The STRUDEL ecosystem and community are developing and we therefore use a light-weight [governance](GOVERNANCE.md). We recommend the steering committee and working groups evaluate the governance model in a year to ensure the governance is aligned with community needs. 
