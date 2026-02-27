@@ -7,7 +7,7 @@ Visit [strudel.science](https://strudel.science) to learn more about the project
 
 Engage further with us here on GitHub via [Discussions](https://github.com/orgs/strudel-science/discussions/).
 
-Read about our [governance here](GOVERNANCE.md).
+Read about our [governance here]([GOVERNANCE.md](https://github.com/strudel-science/.github/blob/main/GOVERNANCE.md)).
 
 <!--
 
