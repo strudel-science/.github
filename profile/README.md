@@ -3,7 +3,7 @@
 
 STRUDEL is an open source science project advocating for and advancing the inclusion of User Experience (UX) practices & tools in scientific software development.
 
-Visit [strudel.science](https://strudel.science) to learn more about the project and its products or explore our repositories.
+Visit [strudel.science](https://strudel.science) to learn more about the project and its products or explore our repositories. Note that our curriculum development work lives in [a Carpentries Incubator repo](https://github.com/carpentries-incubator/rapid-usability-tutorial/tree/main).
 
 Engage further with us here on GitHub via [Discussions](https://github.com/orgs/strudel-science/discussions/).
 
