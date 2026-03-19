@@ -23,5 +23,5 @@ STRUDEL has a steering committee that is organized according to [GOVERNANCE.md](
 \
 \
 Note that STRUDEL has product-focused working groups as well. The members, responsibilities, and roadmaps for these working groups can be found in their respective repositories:  
-[Design System Working Group](https://github.com/strudel-science/strudel-kit)  
-[Curriculum Working Group](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md)
+[Design System Working Group](https://github.com/strudel-science/strudel-kit/blob/main/WORKING-GROUP.md)  
+[Curriculum Working Group](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/WORKING-GROUP.md)
