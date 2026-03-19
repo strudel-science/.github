@@ -5,6 +5,8 @@
 [Contributing as an Individual](#contributing-as-an-individual)  
 [Organizational Collaborations](#organizational-collaborations)
 
+**Link to list of current Product Working Groups:** [see here](https://github.com/strudel-science/.github/blob/main/README.md#product-working-groups)
+
 ## Product Working Groups Governance
 
 Below is information on STRUDEL governance and how you can get involved as a working group member (i.e., maintainer). If you are interested in contributing on a short term basis, you do not need to join a working group; find more information on [contributing as an individual below](#contributing-as-an-individual). 
